@@ -1,0 +1,2 @@
+using PkgTemplates 
+t = Template( user="bensatlantik", authors=["Ben Santora"], plugins=[ License(name="MIT"), Git() ] )
